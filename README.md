@@ -6,7 +6,7 @@
   <img width="50%" src="https://user-images.githubusercontent.com/63009970/150720572-eac3041d-d19e-4182-9b74-715f7c30e253.jpg"/>
 </p>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dnyaneshwarmagar&label=Profile%20views&color=0e75b6&style=flat" alt="dnyaneshwarmagar" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dnyaneshwarmagar&label=Profile%20views&color=0e75b6&style=flat" alt="dnyaneshwarmagar" />
 <a href="https://github.com/dnyaneshwarmagar?tab=followers"><img src="https://img.shields.io/github/followers/dnyaneshwarmagar?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
@@ -48,7 +48,7 @@
 
 
 <h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/dnyaneshm" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="dnyaneshwarmagar" /></a>
   <a href="https://medium.com/@dnyaneshwarmagar276" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="dnyaneshwarmagar" /></a>
   <a title="dnyaneshwarmagar26@gmail.com" href="mailto:dnyaneshwarmagar27@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="dnyaneshwarmagar" /></a> 

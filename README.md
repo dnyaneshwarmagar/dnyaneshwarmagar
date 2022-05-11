@@ -64,6 +64,12 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dnyaneshwarmagar&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="dnyaneshwarmagar" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnyaneshwarmagar&layout=compact&border_radius=0" alt="dnyaneshwarmagar" height="139" />
 </p>
 
+<h2> Some Programming Humor for you <img align='center'
+        src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif'
+        width='32px'></h2>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+
 
 
 

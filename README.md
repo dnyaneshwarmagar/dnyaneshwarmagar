@@ -68,7 +68,7 @@
         src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif'
         width='32px'></h2>
 
-![Jokes Card align="center"](https://readme-jokes.vercel.app/api?theme=default)
+(https://readme-jokes.vercel.app/api?theme=default)
 
 
 

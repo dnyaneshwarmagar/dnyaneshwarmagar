@@ -52,7 +52,7 @@
 
 <h3 align="center"><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/dnyaneshm" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="dnyaneshwarmagar" /></a>
+<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="dnyaneshwarmagar" /></a>
   <a href="https://medium.com/@dnyaneshwarmagar276" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="dnyaneshwarmagar" /></a>
   <a title="dnyaneshwarmagar26@gmail.com" href="mailto:dnyaneshwarmagar27@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="dnyaneshwarmagar" /></a> 
 </p>
